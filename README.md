@@ -1,3 +1,5 @@
+![eshoper](https://github.com/user-attachments/assets/306d6c09-6d51-408c-bf36-16e77b34ffb2)
+
 # E-Commerce Data Engineering Project – Azure Databricks
 
 ## 📌 Project Overview
